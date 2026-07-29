@@ -28,6 +28,8 @@ sgutilitarios/: Contém utilitários, como exceções customizadas.
 
 sg_mini_projeto2.py: É o ponto de entrada da nossa aplicação, responsável pela interface com o usuário (CLI - Command Line Interface).
 
+Lembre-se todas as pastas com os módulos precisam ter um arquivo vazio nomeado "__init__.py", para que sejam reconhecidas como módulos python.
+
 # Execução:
 
 ### Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos do Mini-Projeto e execute o comando abaixo:
