@@ -3,7 +3,7 @@
 
 # Estrutura do Projeto
 ### Vamos organizar nosso projeto na seguinte estrutura de pastas e arquivos:
-<pre>
+```
 Mini-Projeto2/
 ├── dsaentidades/
 │   ├── __init__.py
@@ -16,7 +16,7 @@ Mini-Projeto2/
 │   ├── __init__.py
 │   └── sgexceptions.py
 └── sg_mini_projeto2.py
-<>
+```
 
 # Descrição:
 
